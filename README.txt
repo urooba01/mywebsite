@@ -7,11 +7,10 @@ Welcome to the repository for my personal website! This site showcases my work, 
 2. [Features](#Features)
 3. [Technologies Used](#Technologies-Used)
 4. [Installation](#Installation)
-5. [Screenshots](#Screenshots)
-6. [Contributing](#Contributing)
-7. [License](#License)
-8. [Contact](#Contact)
-9. [Credits](#Credits)
+5. [Contributing](#Contributing)
+6. [License](#License)
+7. [Contact](#Contact)
+8. [Credits](#Credits)
 
 ## Introduction
 
@@ -45,13 +44,6 @@ To run this project locally, follow these steps:
     ```
 3. Open `index.html` in your browser.
 
-## Screenshots
-
-![Homepage](images/homepage.png)
-![About Me](images/about%20me1.png)
-![About Me](images/about%20me2.png)
-![My Skills](images/my%20skills.png)
-![Contact Information](images/contact.png)
 
 ## Contributing
 
