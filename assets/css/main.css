@@ -3907,3 +3907,56 @@ input, select, textarea {
 			}
 
 		}
+		/* Container for features */
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem; /* Space between feature items */
+}
+
+/* Individual feature item */
+.feature {
+    flex: 1 1 calc(33.333% - 1rem); /* Adjusted for spacing */
+    background: #fff; /* Background color of the feature box */
+    border: 1px solid #ddd; /* Border around the feature box */
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    display: flex;
+    align-items: center; /* Align items vertically center */
+    gap: 0.5rem; /* Space between icon and text */
+}
+
+/* Icon styling */
+.feature .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.feature .icon img {
+    max-width: 40px; /* Adjust size */
+    max-height: 40px; /* Adjust size */
+    width: auto;
+    height: auto;
+}
+
+/* Text container */
+.feature .text {
+    margin: 0; /* Remove extra margin */
+    padding: 0; /* Remove extra padding */
+    flex: 1; /* Allow text container to take remaining space */
+}
+
+/* Heading and paragraph styling */
+.feature h3 {
+    margin: 0; /* Remove margin */
+    font-size: 1.5rem; /* Font size for heading */
+}
+
+.feature p {
+    font-size: 1rem; /* Font size for paragraph */
+    color: #666;
+    margin: 0; /* Remove margin */
+}
