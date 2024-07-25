@@ -1,33 +1,78 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Personal Website
 
+Welcome to the repository for my personal website! This site showcases my work, skills, and interests. You can visit the live site [here](https://urooba01.github.io/mywebsite/).
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+## Table of Contents
+1. [Introduction](#Introduction)
+2. [Features](#Features)
+3. [Technologies Used](#Technologies-Used)
+4. [Installation](#Installation)
+5. [Screenshots](#Screenshots)
+6. [Contributing](#Contributing)
+7. [License](#License)
+8. [Contact](#Contact)
+9. [Credits](#Credits)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Introduction
 
-(* = not included)
+This website is a general platform to showcase my personal development, skills, and interests. It is designed to reflect my ongoing learning in game development, UX design, and other related fields. It includes sections about who I am and what I am currently exploring.
 
-AJ
-aj@lkn.io | @ajlkn
+## Features
 
+- **Homepage:** Overview of the site and introduction.
+- **About Me:** Information about my background and personal journey.
+- **Skills:** Detailed description of the skills I am developing and areas of interest.
+- **Contact Info:** Details on how to get in touch with me.
 
-Credits:
+## Technologies Used
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- HTML
+- CSS
+- SCSS
+- JavaScript
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Installation
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/urooba01/mywebsite.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd mywebsite
+    ```
+3. Open `index.html` in your browser.
+
+## Screenshots
+
+![Homepage](screenshots/homepage.png)
+![About Me](screenshots/about%20me1.png)
+![About Me](screenshots/about%20me2.png)
+![My Skills](screenshots/my%20skills.png)
+![Contact Information](screenshots/contact.png)
+
+## Contributing
+
+If you have suggestions or feedback on the site, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Feel free to reach out to me for any questions or feedback.
+
+- Email: [uroobagh123@gmail.com](mailto:uroobagh123@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/uroobagohar/)
+
+## Credits
+
+- **Demo Images:** Unsplash (unsplash.com)
+- **Icons:** Font Awesome (fontawesome.io)
+- **Other:** 
+  - jQuery (jquery.com)
+  - Scrollex (github.com/ajlkn/jquery.scrollex)
+  - Responsive Tools (github.com/ajlkn/responsive-tools)
